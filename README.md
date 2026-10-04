@@ -1,0 +1,8 @@
+<!DOCTYPE 
+<html> 
+<head> 
+<title>DevOpsProject</title> 
+</head>
+<body> <h1>Welcome to DevOps Automated Deployment Pipeline</h1> 
+</body> 
+</html>
